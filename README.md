@@ -2,7 +2,7 @@
 
 This repo contains data and scripts to visualize data associated with the following publication:
 
-Michael L. Whittaker, Wenhao Sun, Danielle O. Duggins, Gerbrand Ceder, and Derk Joester, **submitted**__
+Michael L. Whittaker, Wenhao Sun, Danielle O. Duggins, Gerbrand Ceder, and Derk Joester, *Crystal Growth & Design*, **accepted**
 
 Please direct correspondence to DJ @ d-joester@northwestern.edu
 
