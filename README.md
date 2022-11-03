@@ -2,7 +2,7 @@
 
 This repo contains data and scripts to visualize data associated with the following publication:
 
-Michael L. Whittaker, Wenhao Sun, Danielle O. Duggins, Gerbrand Ceder, and Derk Joester, *Crystal Growth & Design*, **accepted**
+Michael L. Whittaker, Wenhao Sun, Danielle O. Duggins, Gerbrand Ceder, and Derk Joester, *Crystal Growth & Design*, **2021**, *21*, 8, 4556-4563, "*Dynamic Barriers to Crystallization of Calcium Barium Carbonates*". [doi: 10.1021/acs.cgd.1c00433](https://doi.org/10.1021/acs.cgd.1c00433)
 
 Please direct correspondence to DJ @ d-joester@northwestern.edu
 
